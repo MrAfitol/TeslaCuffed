@@ -1,4 +1,4 @@
 # TeslaCuffed
-A simple plugin that makes Tesla unresponsive to people who are connected
+A simple plugin that doesn't enable Tesla for people that are cuffed.
 
 **Be careful if you tied yourself or someone else through the RA then Tesla will continue to work**
