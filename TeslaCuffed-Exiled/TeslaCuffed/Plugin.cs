@@ -9,8 +9,8 @@ namespace TeslaCuffed
         public override string Author => "MrAfitol";
         public override string Name => "Tesla Cuffed";
         public override string Prefix => "tesla_cuffed";
-        public override Version Version => new Version(1, 1, 0);
-        public override Version RequiredExiledVersion => new Version(4, 1, 5);
+        public override Version Version => new Version(1, 2, 0);
+        public override Version RequiredExiledVersion => new Version(5, 2, 2);
 
         public EventHandlers eHandler;
 
